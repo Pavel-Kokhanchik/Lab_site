@@ -1,7 +1,11 @@
-﻿year,year_number,journal,journal_number
-2021,9,Nature communications,1
-2020,5,Nature nanotechnology,1
-2019,3,Optica,1
-2018,16,Optical Materials Express,1
-,,Physical Review B,4
-,,Physical Review Letters,1
+Key,Year,Journal
+1,2021,Nature communications
+2,2020,Nature nanotechnology
+3,2019,Optica
+4,2018,Optical Materials Express
+5,2017,Physical Review B
+6,2019,Physical Review Letters
+7,2005,Physical Review Letters
+8,2010,Science
+9,2015,Science
+10,2015,Physical Review B
